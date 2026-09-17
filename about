@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <title>自己紹介</title>
+    <style>
+
+body {background: #202020;
+         color: white;}
+
+h1 {color: white;}
+
+a {color: #83ccd2}
+
+    </style>
+</head>
+
+<body>
+
+    <h1>自己紹介</h1>
+
+    <p>　どうも、タフカです。</p>
+    <p>　たぶん、このホームページはVRC経由での閲覧がほとんどだと思うので、その点を。</p>
+
+</body>
+
+</html>
